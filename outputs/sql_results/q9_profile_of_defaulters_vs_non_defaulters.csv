@@ -1,0 +1,3 @@
+outcome,loans,avg_income,avg_loan_amount,avg_credit_score,avg_interest_rate,avg_dti_ratio
+Repaid,225694,83899.0,125354.0,576,13.18,0.499
+Defaulted,29653,71845.0,144515.0,559,15.9,0.512

@@ -1,0 +1,13 @@
+cat > .gitignore << 'EOF'
+# Secrets
+config.py
+
+# Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large raw data (download from Kaggle - link in README)
+data/

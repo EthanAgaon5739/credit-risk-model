@@ -1,0 +1,6 @@
+credit_band,loans,default_rate_pct
+1. Poor (under 580),130223,12.47
+2. Fair (580-669),41847,11.43
+3. Good (670-739),32073,10.63
+4. Very Good (740-799),27736,10.50
+5. Exceptional (800+),23468,9.81

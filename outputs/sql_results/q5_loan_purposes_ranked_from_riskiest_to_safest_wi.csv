@@ -1,0 +1,6 @@
+loan_purpose,loans,default_rate_pct,risk_rank
+Business,51298,12.33,1
+Auto,50844,11.88,2
+Education,51005,11.84,3
+Other,50914,11.79,4
+Home,51286,10.23,5
